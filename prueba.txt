@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 HOLA edit 2
+=======
+HOLA edit 2
+>>>>>>> editar1
